@@ -1,3 +1,5 @@
+git status
+
 # deploy to github
 git add --all
 git commit -m "script commit"
